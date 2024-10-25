@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Pallete from "./appColours/ColourPalete";
-import style from "./appColours/themes.module.css";
+import Pallete from "./AppColours/ColourPalete";
+import style from "./AppColours/themes.module.css";
 import "./styles.css";
 
 import Login from "./pages/login/Login";
